@@ -1,0 +1,12 @@
+VIOLATION REPORT — @demo_target_ch [-1009876543210]
+
+CRITICAL: @demo_target_ch is harvesting user data as of today. Emergency review requested.
+
+Violation: Phishing. Archived screenshots demonstrate intent to deceive vulnerable users.
+
+Ref:
+→ https://t.me/demo_target_ch/201
+→ https://t.me/demo_target_ch/202
+→ https://t.me/s/demo_target_ch
+
+The clock is running. Every minute costs someone money.
