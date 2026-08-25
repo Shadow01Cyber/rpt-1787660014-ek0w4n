@@ -1,0 +1,12 @@
+VIOLATION REPORT — @demo_target_ch [-1009876543210]
+
+Evidence package compiled against @demo_target_ch is summarized below.
+
+Violation: Phishing. Archived screenshots demonstrate intent to deceive vulnerable users.
+
+Ref:
+→ https://t.me/demo_target_ch/201
+→ https://t.me/demo_target_ch/202
+→ https://web.archive.org/web/2026/demo_target_ch
+
+Thank you for reviewing this submission.
