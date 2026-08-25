@@ -1,0 +1,1 @@
+TIME-SENSITIVE: @demo_target_ch linked a live phishing payload. Block before more victims. Violation: Phishing. ID -1009876543210. https://t.me/demo_target_ch/201. Respond within the hour. Victims are accumulating.
