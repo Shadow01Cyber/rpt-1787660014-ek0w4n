@@ -1,0 +1,47 @@
+{
+  "channel": "@demo_target_ch",
+  "channel_id": "-1009876543210",
+  "violation": "Phishing",
+  "count": 30,
+  "post_links": [
+    "https://t.me/demo_target_ch/201",
+    "https://t.me/demo_target_ch/202"
+  ],
+  "recipients": [
+    "abuse@telegram.org",
+    "support@telegram.org"
+  ],
+  "generated": "2026-08-25T12:13:37",
+  "files": [
+    "report_001.txt",
+    "report_002.txt",
+    "report_003.txt",
+    "report_004.txt",
+    "report_005.txt",
+    "report_006.txt",
+    "report_007.txt",
+    "report_008.txt",
+    "report_009.txt",
+    "report_010.txt",
+    "report_011.txt",
+    "report_012.txt",
+    "report_013.txt",
+    "report_014.txt",
+    "report_015.txt",
+    "report_016.txt",
+    "report_017.txt",
+    "report_018.txt",
+    "report_019.txt",
+    "report_020.txt",
+    "report_021.txt",
+    "report_022.txt",
+    "report_023.txt",
+    "report_024.txt",
+    "report_025.txt",
+    "report_026.txt",
+    "report_027.txt",
+    "report_028.txt",
+    "report_029.txt",
+    "report_030.txt"
+  ]
+}
