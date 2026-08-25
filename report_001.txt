@@ -1,0 +1,18 @@
+⚠️ Notice is hereby given regarding repeated misconduct documented against the subject channel.
+
+The specific violation: Phishing
+
+Automated fingerprinting links this handle to a known abuse cluster.
+
+Core violation on record: Phishing. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @demo_target_ch
+→ channel id -1009876543210
+→ https://t.me/demo_target_ch/201
+→ https://t.me/demo_target_ch/202
+→ https://abuse-feed.io/report/kc4yfhqv
+
+Logged: 2026-08-25
+
+We trust this matter will receive prompt and appropriate attention.
