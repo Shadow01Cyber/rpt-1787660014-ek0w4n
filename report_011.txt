@@ -1,0 +1,12 @@
+VIOLATION REPORT — @demo_target_ch [-1009876543210]
+
+Reference is made to continuing violations attributable to the account identified below.
+
+Violation: Phishing. The operator rotates aliases to evade prior enforcement actions.
+
+Ref:
+→ https://t.me/demo_target_ch/201
+→ https://t.me/demo_target_ch/202
+→ https://t.me/demo_target_ch
+
+Awaiting confirmation of remedial measures taken against the subject.
